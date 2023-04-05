@@ -1,8 +1,7 @@
 {
-  "name": "snx-liquidator",
+  "name": "snx-liquidator-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Penghui Liao <liaoishere@gmail.com>",
   "license": "MIT",
   "scripts": {
     "seth-searcher": "ts-node ./searcher/susdSearcher.ts",
